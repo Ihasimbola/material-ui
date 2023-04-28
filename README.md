@@ -1,2 +1,2 @@
 # Material UI
-this is my first training with material UI framework
+This is my first training with material UI framework
