@@ -1,4 +1,2 @@
-# hello-world1
-this is my first repository
-My name is Ihasimbola Andriamihary
-I make this change because I am learning github now
+# Material UI
+this is my first training with material UI framework
